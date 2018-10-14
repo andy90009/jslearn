@@ -2,10 +2,11 @@
  * @Author: cmcc.liaohaibo 
  * @Date: 2018-10-13 22:32:33 
  * @Last Modified by: cmcc.liaohaibo
- * @Last Modified time: 2018-10-14 00:47:02
+ * @Last Modified time: 2018-10-14 21:26:17
  */
 
 /**
+ * JavaScript learn from 廖雪峰
  * @lesson01:基本语法
  */
 
